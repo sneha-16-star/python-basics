@@ -1,0 +1,10 @@
+# Congratulations Message Program
+print("🎉" * 20)
+print("🎊  CONGRATULATIONS! 🎊")
+print("🎉" * 20)
+print()
+print("     You're AMAZING!     ")
+print("   You've done it! 🎉    ")
+print(" Keep up the great work! ")
+print()
+print("🌟" * 25)
