@@ -1,0 +1,8 @@
+string =input("please enter your own string")
+
+string2 =('')
+for i in string :
+    string2 = i + string2
+
+print("\nTheOriginalString=",string)
+print("\nTheReversedString=",string2)
